@@ -11,6 +11,7 @@
 | [Card Pulse](https://github.com/abhinavspambox/card-pulse) | Why are banks issuing credit cards faster than people use them? | [Dashboard](https://abhinavspambox.github.io/projects/card-pulse/), 90-day activation plan, interview guide |
 | [UPI × Credit](https://github.com/abhinavspambox/upi-credit) | How can a premium card issuer take part in small UPI payments? | [Dashboard](https://abhinavspambox.github.io/projects/upi-credit/), "credit on QR" proposal, fake-door test |
 | [Complaint Radar](https://github.com/abhinavspambox/complaint-radar) | Can better dispute visibility keep complaints away from the RBI Ombudsman? | [Clickable prototype](https://abhinavspambox.github.io/projects/complaint-radar/prototype.html), usability test plan |
+| [Munshi CRM](https://github.com/abhinavspambox/munshi-crm) | Can a small business capture every website signup and follow up without paying per user? | Free, open-source CRM: [demo video](https://abhinavspambox.github.io/projects/munshi-crm/), website lead capture, follow-up sequences, online quotes |
 | [SQL Workbench](https://github.com/abhinavspambox/sql-workbench) | Practise SQL on real Indian payments data | 14 queries and 8 exercises: joins, CTEs, window functions |
 | [India Payments Data](https://github.com/abhinavspambox/india-payments-data) | Clean, source-linked card and UPI statistics | Open dataset with a validator |
 
